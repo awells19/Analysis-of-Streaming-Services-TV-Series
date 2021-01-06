@@ -1,1 +1,2 @@
 # Analysis-of-Streaming-Services-TV-Series
+Using Python and Pandas, I analyzed a comprehensive data set of TV shows available on the various streaming platforms (Netflix, Prime Video, Hulu, and Disney Plus). I produced visualizations and conducted my analysis in Python to evaluate the four different streaming platforms. I then designed and presented a BI Deck using PowerPoint of analytical findings.
